@@ -84,4 +84,4 @@ function decifrar(textoCifrado, chave) {
 }
 
 
-module.exports = { cifrar, decifrar };
+export { cifrar, decifrar };
